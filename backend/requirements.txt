@@ -1,0 +1,15 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.4
+flask-cors==3.0.10
+python-dotenv==1.0.0
+Flask-SocketIO==5.3.6
+simple-websocket==1.0.0
+alpaca-py>=0.30.0,<1.0.0
+requests>=2.31
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+statsmodels>=0.14
+google-genai>=1.0
+pydantic>=2.0
+pytest>=8.0
